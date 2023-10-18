@@ -1,4 +1,3 @@
-```markdown
 # AWS Lambda Function for API Routing
 
 This is a simple AWS Lambda function for routing API requests to specific endpoints. It responds with JSON data based on the request path.
