@@ -18,8 +18,8 @@ exports.handler = async (event) => {
         response = {
             statusCode: 200,
             body: JSON.stringify({
-                UserName: "Sk Shamim Iqbal",
-                Email: "iqbalshamim00@gmail.com",
+                UserName: "Tilak Sharma",
+                Email: "tilak.sharma1198@gmail.com",
             }),
         };
     }
