@@ -56,8 +56,8 @@ Response:
 
 ```json
 {
-    "UserName": "Sk Shamim Iqbal",
-    "Email": "iqbalshamim00@gmail.com"
+    "UserName": "Tilak Sharma",
+    "Email": "tilak.sharma1198@gmail.com"
 }
 ```
 
